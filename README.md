@@ -35,4 +35,4 @@ The main goal of this project was to:
 ## 📷 Dashboard Preview
 
 Here’s a snapshot of the HR dashboard:
-
+https://github.com/BhumikaSM/HR-Dashboard/blob/main/HR%20DASHBOARD.png
